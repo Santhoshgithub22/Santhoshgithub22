@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm SANTHOSH KUMAR </h1>
-<h3 align="center">A Junior Data Scientist from India</h3>
+<h3 align="center">A Junior Data Scientist (LEARNER) from India</h3>
 ### Hey Guys Heart Fully Thanks For Visit My Profile
 
 ### Here is Who I'm! 👋
