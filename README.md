@@ -1,9 +1,8 @@
-### Here is Who I'm! 👋
-### Hey Guys Heart Fully Thanks For Visit My Profile
 <h1 align="center">Hi👋 I'm SANTHOSH KUMAR </h1>
 <h3 align="center">A Junior Data Scientist from India</h3>
+### Hey Guys Heart Fully Thanks For Visit My Profile
 
-Here are some ideas to get you started:
+### Here is Who I'm! 👋
 
 - My Name Is Santhosh Kumar
 - 🔭 I’m currently working as a Junior Data Scientist (LEARNER)
