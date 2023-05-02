@@ -60,21 +60,14 @@
 ### [Wakatime-stats](https://github.com/Santhoshgithub22-readme-stats) - [Santhoshgithub22]([https://github.com/anmol098](https://github.com/Santhoshgithub22))
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [Snake game from github user contributions graph](https://github.com/Santhoshgithub22/snk) - [Platane](https://github.com/Santhoshgithub22/) 
-![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-
-### [GitHub Stats Visualization](https://github.com/Santhoshgithub22/github-stats) - [jstrieb](https://github.com/Santhoshgithub22)
-<a href="https://github.com/Santhoshgithub22/github-stats">
- 
-![](https://github.com/Santhoshgithub22/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Santhoshgithub22/github-stats/blob/master/generated/languages.svg)
-</a>  
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=swift)
 
 
-
+### [Medium](https://github.com/bxcodec/github-readme-medium-recent-article) - [Santhosh](https://github.com/Santhoshgithub22/) 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">   
+  
 ---
 
 ### :writing_hand: Blog Posts :
