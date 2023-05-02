@@ -60,8 +60,8 @@
 ### [Wakatime-stats](https://github.com/Santhoshgithub22-readme-stats) - [Santhoshgithub22]([https://github.com/anmol098](https://github.com/Santhoshgithub22))
 ![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
-![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+### [Snake game from github user contributions graph]((https://github.com/Santhoshgithub22) - [Platane]((https://github.com/Santhoshgithub22/) 
+![preview](https://raw.githubusercontent.com/Santhoshgithub22/snk/output/github-contribution-grid-snake.gif)
 
 ### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [jstrieb](https://github.com/jstrieb)
 <a href="https://github.com/jstrieb/github-stats">
