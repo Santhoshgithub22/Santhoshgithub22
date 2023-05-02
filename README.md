@@ -15,10 +15,7 @@
 ----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santhoshgithub22&label=Profile%20views&color=0e75b6&style=flat" alt="Santhoshgithub22" /> </p>
 
-logo={your social network icon name}
-logoColor={color of the icon}
 
-https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=green&style=for-the-badge
 
 
 <div id="header" align="center">
@@ -40,6 +37,10 @@ https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=green&st
 <a href="https://www.linkedin.com/in/santhosh-kumar-a98157219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+<a hred="https://www.hackerrank.com/santhoshbharath1">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373234%2Fhackerrank_logo_logos_icon&psig=AOvVaw3bpQ_6mh23LG6WUWjFgmKD&ust=1683107186095000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMip34Kt1v4CFQAAAAAdAAAAABAE"
+
 </p>
 
 ---
