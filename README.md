@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif" width="100"/>
     <img src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif" width="100"/>
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100" height="150"/>
-     <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100" height="150"/ >
-     <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif" width="100" height="150"/ >
-     <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="100" height="150"/ >
+     <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100" height="150"/>
+     <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif" width="100" height="150"/>
+     <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="100" height="150"/>
      <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" width="100"/>
 
 
