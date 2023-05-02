@@ -53,7 +53,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=dark)](https://github.com/Santhoshgithub22/github-profile-trophy)
 
 
-![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshgithub22&show_icons=true&theme=dark)
+![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshgithub22&show_icons=true&theme=dark) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santhoshgithub22&theme=highcontrast&background=000000)
+
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santhoshgithub22&theme=highcontrast&background=000000)
 
