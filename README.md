@@ -38,5 +38,16 @@
 
 ---
 
+### :fire: My Stats :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=onedark)](https://github.com/Santhoshgithub22-profile-trophy)
+
+![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshgithub22&show_icons=true&theme=radical)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santhoshgithub22&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=vision-friendly-dark)
+
+
 <!--
 **Santhoshgithub22/Santhoshgithub22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
