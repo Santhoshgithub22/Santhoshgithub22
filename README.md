@@ -38,7 +38,7 @@
 
 ---
 
-### :fire: My Statistics:
+### 🧮: My Statistics:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=onedark)](https://github.com/Santhoshgithub22-profile-trophy)
 
