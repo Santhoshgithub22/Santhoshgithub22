@@ -66,6 +66,11 @@
 ### [GitHub Stats Visualization](https://github.com/Santhoshgithub22/github-stats) - [jstrieb](https://github.com/Santhoshgithub22)
 <a href="https://github.com/Santhoshgithub22/github-stats">
   
+  
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+</a>  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=swift)
 
