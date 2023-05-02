@@ -38,8 +38,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-<a href="https://www.hackerrank.com/santhoshbharath1">
-  <img src="C:\Users\santhoshkumar.m\Downloads\hackerrank.png">
+<a href="https://en.m.wikipedia.org/wiki/File:HackerRank_logo.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
     </a>
 
 
