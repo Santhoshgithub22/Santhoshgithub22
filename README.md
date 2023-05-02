@@ -15,6 +15,12 @@
 ----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santhoshgithub22&label=Profile%20views&color=0e75b6&style=flat" alt="Santhoshgithub22" /> </p>
 
+logo={your social network icon name}
+logoColor={color of the icon}
+
+https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=green&style=for-the-badge
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3MmM3ODcwNzMxOWYwYjVlYmYwZTRlMDhmYjZlMmMzYmI2Nzc5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
