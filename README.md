@@ -63,8 +63,8 @@
 ### [Snake game from github user contributions graph]((https://github.com/Santhoshgithub22) - [Platane]((https://github.com/Santhoshgithub22/) 
 ![preview](https://raw.githubusercontent.com/Santhoshgithub22/snk/output/github-contribution-grid-snake.gif)
 
-### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [jstrieb](https://github.com/jstrieb)
-<a href="https://github.com/jstrieb/github-stats">
+### [GitHub Stats Visualization](https://github.com/Santhoshgithub22/github-stats) - [jstrieb](https://github.com/Santhoshgithub22)
+<a href="https://github.com/Santhoshgithub22/github-stats">
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=swift)
