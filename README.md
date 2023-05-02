@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a **Junior Data Scientist (LEARNER)**
 - 🌱 I’m currently learning How To Try To Write Code
 - 💬 My aim is I want to shine in Data Science field
-- 📫 How to reach me: Connent With Me On LinkedIN - **https://www.linkedin.com/in/santhosh-kumar-a98157219/**
+- 📫 How to reach me: Connent With Me On Email - **santhoshbharath61@gmail.com**
 - 😄 Its Not Too Late To Dream
 - ⚡ Let's We Can Learn Together From Now
 
