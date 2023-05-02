@@ -47,10 +47,8 @@
 
 ### 🧮: My Statistics:
 
-https://github-stats-alpha.vercel.app/api?username={Santhoshgithub22}
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=dark)](https://github.com/Santhoshgithub22-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=onedark)](https://github.com/Santhoshgithub22-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
