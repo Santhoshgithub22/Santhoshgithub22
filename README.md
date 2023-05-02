@@ -39,7 +39,7 @@
   </a>
   
 <a href="https://www.hackerrank.com/santhoshbharath1">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsai.net%2Fp%2Fmachine-learning%2Fhow-i-screwed-up-a-hackerrank-test-with-a-line-of-code&psig=AOvVaw1Oh41m8GUClreFEUYj6jg9&ust=1683108603834000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiowaWy1v4CFQAAAAAdAAAAABAE">
+  <img src="https://en.m.wikipedia.org/wiki/File:HackerRank_logo.png">
     </a>
 
 
