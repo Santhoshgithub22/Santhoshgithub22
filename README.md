@@ -52,8 +52,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=light)](https://github.com/Santhoshgithub22/github-profile-trophy)
 
-[![Santhosh GitHub stats](https://github-stats-alpha.vercel.app/api?username=Santhoshgithub22)](https://github-stats-alpha.vercel.app/api?username=Santhoshgithub22)
-
 
 ![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshgithub22&show_icons=true&theme=dark)
 
@@ -71,3 +69,7 @@ https://medium.com/@santhoshbharath61
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Santhoshgithub22/Santhoshgithub22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Contribution 💬
+
+Contributors are welcome. Please open an issue or pull request if you have any suggestions.
