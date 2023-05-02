@@ -65,8 +65,8 @@
 
 
 ### [Medium](https://medium.com/@santhoshbharath61) - [Santhosh](https://github.com/Santhoshgithub22/) 
-<a target="_blank" href="https://medium.com/p/366e63d986ed"><alt="How to become a data scientist"> 
-<a target="_blank" href="https://medium.com/p/79e79f8be123"><img src="https://medium.com/p/79e79f8be123" alt="Recent Article 0">   
+<a target="_blank" href="https://medium.com/p/366e63d986ed"><img src="https://medium.com/p/366e63d986ed" alt="How to become a data scientist"> 
+<a target="_blank" href="https://medium.com/p/79e79f8be123"><img src="https://medium.com/p/79e79f8be123" alt="Statistics for Data Science">   
   
 ---
 
