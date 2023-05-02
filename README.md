@@ -18,13 +18,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3MmM3ODcwNzMxOWYwYjVlYmYwZTRlMDhmYjZlMmMzYmI2Nzc5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+     <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
 
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-</div>
 
-
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
