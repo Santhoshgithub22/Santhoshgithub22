@@ -4,11 +4,11 @@
 
 ### Here is Who I'm! 👋
 
-- My Name Is Santhosh Kumar
-- 🔭 I’m currently working as a Junior Data Scientist (LEARNER)
+- My Name Is **Santhosh Kumar**
+- 🔭 I’m currently working as a **Junior Data Scientist (LEARNER)**
 - 🌱 I’m currently learning How To Try To Write Code
 - 💬 My aim is I want to shine in Data Science field
-- 📫 How to reach me: Connent With Me On LinkedIN - https://www.linkedin.com/in/santhosh-kumar-a98157219/
+- 📫 How to reach me: Connent With Me On LinkedIN - **https://www.linkedin.com/in/santhosh-kumar-a98157219/**
 - 😄 Its Not Too Late To Dream
 - ⚡ Let's We Can Learn Together From Now
 
