@@ -12,6 +12,9 @@
 - 😄 Its Not Too Late To Dream
 - ⚡ Let's We Can Learn Together From Now
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3MmM3ODcwNzMxOWYwYjVlYmYwZTRlMDhmYjZlMmMzYmI2Nzc5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!--
 **Santhoshgithub22/Santhoshgithub22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
