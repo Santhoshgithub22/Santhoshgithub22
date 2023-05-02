@@ -39,7 +39,7 @@
   </a>
   
 <a href="https://www.hackerrank.com/santhoshbharath1">
-  <img src="https://en.m.wikipedia.org/wiki/File:HackerRank_logo.png">
+  <img src="C:\Users\santhoshkumar.m\Downloads\hackerrank.png">
     </a>
 
 
