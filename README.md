@@ -45,7 +45,7 @@
 
 ---
 
-### 🧮: My Statistics:
+### Readme Stats for Github 📈
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=dark)](https://github.com/Santhoshgithub22/github-profile-trophy)
@@ -58,6 +58,8 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santhoshgithub22&theme=highcontrast&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=swift)
+
+
 
 ---
 
