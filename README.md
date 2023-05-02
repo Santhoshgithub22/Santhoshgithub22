@@ -39,7 +39,9 @@
   </a>
   
 <a href="https://www.hackerrank.com/santhoshbharath1">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373234%2Fhackerrank_logo_logos_icon&psig=AOvVaw3bpQ_6mh23LG6WUWjFgmKD&ust=1683107186095000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMip34Kt1v4CFQAAAAAdAAAAABAE"
+  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373234%2Fhackerrank_logo_logos_icon&psig=AOvVaw3bpQ_6mh23LG6WUWjFgmKD&ust=1683107186095000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMip34Kt1v4CFQAAAAAdAAAAABAE">
+    </a>
+
 
 </p>
 
