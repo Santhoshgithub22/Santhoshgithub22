@@ -41,6 +41,8 @@
 <a href="https://www.hackerrank.com/santhoshbharath1">
  <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>    
   </a>
+  
+<img src="hackerrank" height="100" width="100"/>    
 
 
 </p>
