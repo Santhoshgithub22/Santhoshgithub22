@@ -49,6 +49,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=dark)](https://github.com/Santhoshgithub22-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshgithub22&show_icons=true&theme=dark)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santhoshgithub22&theme=radical&background=000000)
