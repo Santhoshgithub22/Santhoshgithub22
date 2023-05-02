@@ -64,7 +64,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=swift)
 
 
-### [Medium](https://github.com/bxcodec/github-readme-medium-recent-article) - [Santhosh](https://github.com/Santhoshgithub22/) 
+### [Medium](https://medium.com/@santhoshbharath61) - [Santhosh](https://github.com/Santhoshgithub22/) 
 <a target="_blank" href="https://medium.com/p/366e63d986ed"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
 <a target="_blank" href="https://medium.com/p/79e79f8be123"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">   
   
