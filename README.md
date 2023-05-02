@@ -45,7 +45,7 @@
 
 ---
 
-### Readme Stats for Github 📈
+# Readme Stats for Github 📈
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=dark)](https://github.com/Santhoshgithub22/github-profile-trophy)
