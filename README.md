@@ -48,6 +48,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshgithub22&layout=compact&theme=vision-friendly-dark)
 
+---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+https://medium.com/@santhoshbharath61
+<!-- BLOG-POST-LIST:END -->
 <!--
 **Santhoshgithub22/Santhoshgithub22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
