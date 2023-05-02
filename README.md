@@ -52,6 +52,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhoshgithub22&theme=light)](https://github.com/Santhoshgithub22/github-profile-trophy)
 
+[![Example](https://github-stats-alpha.vercel.app/api?username=Santhoshgithub22 "Example")](https://github-stats-alpha.vercel.app/api?username=Santhoshgithub22 "Example")
+
 
 ![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshgithub22&show_icons=true&theme=dark)
 
